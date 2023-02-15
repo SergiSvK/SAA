@@ -34,17 +34,3 @@ model.score(inputs_n, target)
 # salario de google, ingeniero, con bacherlor > 100k
 
 model.predict([[2, 1, 0]])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
