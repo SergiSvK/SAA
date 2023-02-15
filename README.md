@@ -1,2 +1,2 @@
-# SSA
+# SAA
 Sistemas de aprendizaje automatico
