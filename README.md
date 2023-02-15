@@ -25,11 +25,11 @@ _La mayor parte del los fragmentos del código necesitarás instar librerías es
 
 ##  Temas
 
-- guardar modelos
+- [Guardar modelos](https://github.com/SergiSvK/SAA/tree/main/Guardar%20Modelos)
 - dummy variables
 - One Hot Encoding
 - Correlación
-- Datos entrenamiento y test
+- [Datos entrenamiento y test](https://github.com/SergiSvK/SAA/tree/main/Datos%20entrenamiento%20y%20test)
 - regresión lineal
-- regresipon logistica
-- árboles de decisión
+- regression logistic
+- [Árboles de decisión](https://github.com/SergiSvK/SAA/tree/main/Arboles%20de%20Decisiones)
