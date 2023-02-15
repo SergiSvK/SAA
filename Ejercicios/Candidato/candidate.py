@@ -6,7 +6,7 @@ import numpy as np
 from sklearn import linear_model
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("../../data/hiring.csv")
+df = pd.read_csv("../../Datasets/hiring.csv")
 
 # si se encuentra vacio se reemplaza por 0
 df.experience = df.experience.fillna("zero")

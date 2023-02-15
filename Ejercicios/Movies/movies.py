@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn import linear_model
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("../../data/movies.csv")
+df = pd.read_csv("../../Datasets/movies.csv")
 print(df)
 
 # nulos

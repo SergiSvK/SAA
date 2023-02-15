@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn import linear_model
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("../../data/renta_per_capita.csv")
+df = pd.read_csv("../../Datasets/renta_per_capita.csv")
 print(df)
 
 plt.xlabel("Año")
