@@ -2,7 +2,7 @@
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
-## Librerías más usadas 🚀
+## Librerías 🚀
 
 _La mayor parte del los fragmentos del código necesitarás instar librerías especificas_
 
@@ -22,3 +22,14 @@ _La mayor parte del los fragmentos del código necesitarás instar librerías es
 ```console
 !pip install scikit-learn
 ```
+
+##  Temas
+
+- guardar modelos
+- dummy variables
+- One Hot Encoding
+- Correlación
+- Datos entrenamiento y test
+- regresión lineal
+- regresipon logistica
+- árboles de decisión
