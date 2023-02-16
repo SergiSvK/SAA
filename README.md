@@ -4,7 +4,7 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 ## Librerías 🚀
 
-_La mayor parte del los fragmentos del código necesitarás instar librerías especificas_
+_La mayor parte del los fragmentos del código necesitarás instar librerías específicas_
 
 * [Pandas](https://pandas.pydata.org/) - Manipulación de datos y análisis
 
