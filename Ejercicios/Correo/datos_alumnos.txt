@@ -1,4 +1,0 @@
-Antonio 5 June, 1882 antonio@kohli.com
-Maria 12 April, 2001 maria@sharapova.com
-Serena 24 June, 1998 serena@williams.com
-Jose 1 May, 1997 jose@root.com

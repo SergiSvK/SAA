@@ -1,6 +1,18 @@
 # Sistema de Aprendizaje Automático
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Para Python_
+
+##  ÍNDICE 📋
+
+- [Guardar modelos](https://github.com/SergiSvK/SAA/tree/main/Guardar%20Modelos)
+- dummy variables
+- One Hot Encoding
+- Correlación
+- [Datos entrenamiento y test](https://github.com/SergiSvK/SAA/tree/main/Datos%20entrenamiento%20y%20test)
+- regresión lineal
+- regression logistic
+- [Árboles de decisión](https://github.com/SergiSvK/SAA/tree/main/Arboles%20de%20Decisiones)
+
 
 ## Librerías 🚀
 
@@ -23,13 +35,4 @@ _La mayor parte del los fragmentos del código necesitarás instar librerías es
 !pip install scikit-learn
 ```
 
-##  Temas
-
-- [Guardar modelos](https://github.com/SergiSvK/SAA/tree/main/Guardar%20Modelos)
-- dummy variables
-- One Hot Encoding
-- Correlación
-- [Datos entrenamiento y test](https://github.com/SergiSvK/SAA/tree/main/Datos%20entrenamiento%20y%20test)
-- regresión lineal
-- regression logistic
-- [Árboles de decisión](https://github.com/SergiSvK/SAA/tree/main/Arboles%20de%20Decisiones)
+## Cosas a tener en cuenta 📋
