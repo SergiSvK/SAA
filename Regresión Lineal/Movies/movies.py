@@ -15,8 +15,8 @@ df = df.select_dtypes(include=['float64', 'int64'])
 # Eliminar los valores nulos y reemplazarlos con 0, pista, usar los metodos select_dtypes y fillna
 df = df.select_dtypes(include=['float64', 'int64']).fillna(0)
 
-# Crear un modelo de regresion lineal (con scikit-learn) y entrenarlo en el dataset numéricos. La variable objetivo es ventas
-# Asignar una columna nueva con las predicciones al dataset original llamada ventas_pred
+# Crear un modelo de regresion lineal (con scikit-learn) y entrenarlo en el dataset numéricos. La variable objetivo
+# es ventas Asignar una columna nueva con las predicciones al dataset original llamada ventas_pred
 
 reg = linear_model.LinearRegression()
 reg.fit(df.drop("ventas", axis="columns"), df.ventas)
