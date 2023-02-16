@@ -36,4 +36,4 @@ print(reg.predict([[12, 10, 10]]))
 print(os.getcwd())
 
 # bajar un directorio anterior al actual
-os.chdir("..")
+os.chdir("../../Ejercicios")
