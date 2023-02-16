@@ -5,6 +5,7 @@ import pandas as pd
 import math
 # drive mount
 from google.colab import drive
+import math
 
 drive.mount('/content/drive')
 
@@ -48,8 +49,8 @@ def sigmoid(x):
 # 0.5 = 1 / (1 + e^(-x))
 
 
-def prediction_function(age, coef, intercept):
-    z = coef * age + intercept
+def prediction_function(data, coef, intercept):
+    z = coef * data + intercept
     y = sigmoid(z)
     return y
 
