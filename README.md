@@ -1,6 +1,22 @@
 # Sistema de Aprendizaje Automático
 
-* [Python](https://www.python.org/) - Lenguaje de programación
+
+
+<p align="center">
+  <a title="Last Commit" href="https://github.com/SergiSvK/SAA">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sergisvk/saa?style=for-the-badge">  
+</a>
+
+<a title="Python" href="https://www.python.org/">
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Anac?style=for-the-badge">
+</a>
+
+</p>
+
+### INTRODUCCIÓN 📋
+
+En este repositorio encontrarás una serie de fragmentos de código que te ayudarán a entender el funcionamiento de 
+los algoritmos de Machine Learning.
 
 ##  ÍNDICE 📋
 
