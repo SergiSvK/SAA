@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2c7112e-3639-4209-ab86-f8dbe65ef2d2" name="Changes" comment="Regresión Logística 📉">
+      <change beforePath="$PROJECT_DIR$/Regresión Logistica/media/img.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JEp6nLnvmTj2qhRtN4JkImrylL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sergio/OneDrive - ies1xabia.org/Sistema de Aprendizaje Auto/SAA/Datos entrenamiento y test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA\Datos entrenamiento y test" />
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA\Arboles de Decisiones" />
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA_repository\Ejercicios\One_hot_encoder_2" />
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA_repository\twitter_sentimientos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA\Regresión Logistica\media" />
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA\Dummy Variables" />
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA\Regresión Logistica" />
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA\Regresión Lineal" />
+      <recent name="C:\Users\sergio\OneDrive - ies1xabia.org\Sistema de Aprendizaje Auto\SAA\Correlación" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.d" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Incio" />
+    <MESSAGE value="Repository" />
+    <MESSAGE value="Fuente de Datos " />
+    <MESSAGE value="readme" />
+    <MESSAGE value="Carpetas" />
+    <MESSAGE value="arboles de decisiones" />
+    <MESSAGE value="arboles de decisiones " />
+    <MESSAGE value="Árboles de Decisiones " />
+    <MESSAGE value="Guardar Modelos " />
+    <MESSAGE value="División de Datos " />
+    <MESSAGE value="Guía " />
+    <MESSAGE value="Guía " />
+    <MESSAGE value="Orden" />
+    <MESSAGE value="Árboles de Decisiones " />
+    <MESSAGE value="Guia " />
+    <MESSAGE value="Regresión Logística " />
+    <option name="LAST_COMMIT_MESSAGE" value="Regresión Logística " />
+  </component>
+</project>
