@@ -23,9 +23,8 @@ los algoritmos de Machine Learning.
 - [Árboles de decisión](https://github.com/SergiSvK/SAA/tree/main/Arboles%20de%20Decisiones) 🌲
 - Correlación
 - [Datos entrenamiento y test](https://github.com/SergiSvK/SAA/tree/main/Datos%20entrenamiento%20y%20test) 🏋
-- Dummy variables
 - [Guardar modelos](https://github.com/SergiSvK/SAA/tree/main/Guardar%20Modelos) 💾
-- One Hot Encoding
+- [One Hot Encoding and Dummy variables](https://github.com/SergiSvK/SAA/tree/main/Dummy%20Variables)🥠
 - [Regresión lineal](https://github.com/SergiSvK/SAA/tree/main/Regresi%C3%B3n%20Lineal)📈
 - [Regression logistic](https://github.com/SergiSvK/SAA/tree/main/Regresi%C3%B3n%20Logistica)📉
 
