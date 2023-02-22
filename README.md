@@ -1,7 +1,5 @@
 # Sistemas de Aprendizaje Automático
 
-
-
 <p align="center">
   <a title="Last Commit" href="https://github.com/SergiSvK/SAA">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sergisvk/saa?style=for-the-badge">  
